@@ -1,0 +1,13 @@
+#welcome, #quiz, #inputScore, #highScores {
+    width: 70%;
+}
+
+#quiz, #inputScore, #highScores {
+    display: none;
+}
+
+.jumbotron {
+    background: #ffffff;
+    box-shadow: 11px 11px 22px #b3b3b3,-11px -11px 22px #ffffff;
+    border-radius: 20px;
+}
