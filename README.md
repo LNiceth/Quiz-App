@@ -1,6 +1,5 @@
 # Code Quiz 📝
 
-git
 
 ## Description
 
