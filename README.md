@@ -18,7 +18,7 @@ This application will test your knowledge of javascript, css and html! Answer th
 This application is compatible with the most commonly used web browsers.
 
 <p align="center">
-    <a href="https://lniceth.github.io/Javascript-Quiz-App/"><img src="https://img.shields.io/badge/-👉 See Live Site-success?style=for-the-badge"  alt="Live Site" /></a>
+    <a href="https://lniceth.github.io/Quiz-App/"><img src="https://img.shields.io/badge/-👉 See Live Site-success?style=for-the-badge"  alt="Live Site" /></a>
 </p>
 ## Usage
 
